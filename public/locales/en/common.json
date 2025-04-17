@@ -1,0 +1,53 @@
+{
+  "title": "AI CNC - Advanced CNC Solutions",
+  "description": "AI-powered CNC machinery and solutions for manufacturing excellence",
+  
+  "hero": {
+    "title": "Next Generation CNC with AI Intelligence",
+    "subtitle": "Smart, efficient, and precise manufacturing solutions for the modern industry",
+    "primaryButton": "Explore Products",
+    "secondaryButton": "Contact Us"
+  },
+  
+  "whyUs": {
+    "title": "Why Choose AI CNC?",
+    "subtitle": "Leading the revolution in smart manufacturing technology",
+    "features": {
+      "ai": {
+        "title": "AI-Powered Intelligence",
+        "description": "Our CNC machines learn and adapt to optimize performance and reduce errors"
+      },
+      "precision": {
+        "title": "Unmatched Precision",
+        "description": "Achieve the highest level of accuracy for complex manufacturing needs"
+      },
+      "efficiency": {
+        "title": "Enhanced Efficiency",
+        "description": "Reduce production time and waste with smart automation solutions"
+      },
+      "innovation": {
+        "title": "Continuous Innovation",
+        "description": "Stay ahead with cutting-edge technology and regular software updates"
+      }
+    }
+  },
+  
+  "footer": {
+    "tagline": "Revolutionizing manufacturing with artificial intelligence",
+    "rights": "All rights reserved.",
+    "company": "Company",
+    "products": "Products",
+    "resources": "Resources",
+    "links": {
+      "about": "About Us",
+      "contact": "Contact",
+      "careers": "Careers",
+      "cnc": "CNC Machines",
+      "ai": "AI Solutions",
+      "software": "Software",
+      "blog": "Blog",
+      "support": "Support",
+      "docs": "Documentation"
+    }
+  }
+} 

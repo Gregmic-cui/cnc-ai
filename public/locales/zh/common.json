@@ -1,0 +1,53 @@
+{
+  "title": "AI数控 - 先进数控解决方案",
+  "description": "AI驱动的数控机械和解决方案，实现卓越制造",
+  
+  "hero": {
+    "title": "具有AI智能的下一代数控",
+    "subtitle": "为现代工业提供智能、高效和精确的制造解决方案",
+    "primaryButton": "探索产品",
+    "secondaryButton": "联系我们"
+  },
+  
+  "whyUs": {
+    "title": "为什么选择AI数控？",
+    "subtitle": "引领智能制造技术革命",
+    "features": {
+      "ai": {
+        "title": "AI驱动智能",
+        "description": "我们的数控机床能够学习和适应，优化性能并减少错误"
+      },
+      "precision": {
+        "title": "无与伦比的精度",
+        "description": "为复杂的制造需求实现最高水平的精确度"
+      },
+      "efficiency": {
+        "title": "提高效率",
+        "description": "通过智能自动化解决方案减少生产时间和浪费"
+      },
+      "innovation": {
+        "title": "持续创新",
+        "description": "通过尖端技术和定期软件更新保持领先地位"
+      }
+    }
+  },
+  
+  "footer": {
+    "tagline": "用人工智能革新制造业",
+    "rights": "保留所有权利。",
+    "company": "公司",
+    "products": "产品",
+    "resources": "资源",
+    "links": {
+      "about": "关于我们",
+      "contact": "联系方式",
+      "careers": "招聘信息",
+      "cnc": "数控机床",
+      "ai": "AI解决方案",
+      "software": "软件",
+      "blog": "博客",
+      "support": "支持",
+      "docs": "文档"
+    }
+  }
+} 
