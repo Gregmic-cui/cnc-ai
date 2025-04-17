@@ -32,6 +32,207 @@
     }
   },
   
+  "upload": {
+    "title": "File Upload - AI CNC",
+    "description": "Upload your CAD files for AI analysis and CNC manufacturing",
+    "heading": "Upload Your Files",
+    "instructions": "Upload your CAD files, 3D models, or blueprints for AI analysis and processing. Our system will automatically analyze your designs and provide optimization suggestions.",
+    "dragAndDrop": "Drag and drop your files here",
+    "fileFormats": "Supported formats: .STEP, .STL, .DXF, .DWG, .IGES",
+    "selectFiles": "Browse Files",
+    "processFiles": "Analyze & Process Files",
+    "previousUploads": "Previous Uploads",
+    "noUploads": "You don't have any previous uploads yet"
+  },
+
+  "quote": {
+    "title": "Get a Quote - AI CNC",
+    "description": "Request a personalized quote for your CNC manufacturing project",
+    "heading": "Request a Quote",
+    "instructions": "Fill out the form below with your project details to receive a personalized quote from our team.",
+    "projectInfo": "Project Information",
+    "projectName": "Project Name",
+    "deadline": "Requested Deadline",
+    "materialSpecs": "Material Specifications",
+    "materialType": "Material Type",
+    "selectMaterial": "Select a material",
+    "materials": {
+      "aluminum": "Aluminum",
+      "steel": "Steel",
+      "plastic": "Plastic",
+      "wood": "Wood",
+      "other": "Other"
+    },
+    "dimensions": "Dimensions & Specifications",
+    "dimensionsPlaceholder": "Please provide detailed dimensions and any specific requirements for your project",
+    "quantityAndContact": "Quantity & Contact Information",
+    "quantity": "Quantity Required",
+    "email": "Email Address",
+    "additionalInfo": "Additional Information",
+    "additionalInfoPlaceholder": "Any other details that might help us understand your project better",
+    "submitRequest": "Submit Quote Request"
+  },
+
+  "contact": {
+    "title": "Contact Us - AI CNC",
+    "description": "Get in touch with our team for inquiries, support, or partnership opportunities",
+    "heading": "Contact Us",
+    "formTitle": "Send us a Message",
+    "name": "Full Name",
+    "email": "Email Address",
+    "subject": "Subject",
+    "selectSubject": "Select a subject",
+    "subjects": {
+      "sales": "Sales Inquiry",
+      "support": "Technical Support",
+      "partnership": "Partnership Opportunity",
+      "other": "Other"
+    },
+    "message": "Your Message",
+    "sendMessage": "Send Message",
+    "infoTitle": "Contact Information",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "hoursTitle": "Business Hours",
+    "days": {
+      "monday": "Monday",
+      "tuesday": "Tuesday",
+      "wednesday": "Wednesday",
+      "thursday": "Thursday",
+      "friday": "Friday",
+      "saturday": "Saturday",
+      "sunday": "Sunday"
+    },
+    "closed": "Closed"
+  },
+
+  "workflow": {
+    "title": "Our Workflow - AI CNC",
+    "description": "Learn about our AI-powered CNC manufacturing process from design to delivery",
+    "heading": "Our Manufacturing Process",
+    "subheading": "A step-by-step journey from design to delivery, enhanced by AI technology",
+    "steps": {
+      "one": {
+        "title": "Design Upload & AI Analysis",
+        "description": "Upload your CAD files or 3D models for our AI to analyze. Our system will identify optimization opportunities for manufacturing efficiency and cost reduction."
+      },
+      "two": {
+        "title": "Material Selection & Quotation",
+        "description": "Choose from our range of high-quality materials. Our AI system will calculate precise costs and delivery timelines based on your design and material choice."
+      },
+      "three": {
+        "title": "AI-Optimized Tool Pathing",
+        "description": "Our proprietary AI algorithms generate optimal tool paths for CNC machining, minimizing waste while maximizing precision and efficiency."
+      },
+      "four": {
+        "title": "Precision Manufacturing",
+        "description": "Your parts are produced on our state-of-the-art CNC machines with real-time AI monitoring to ensure exceptional accuracy and quality."
+      },
+      "five": {
+        "title": "Quality Control & Delivery",
+        "description": "Every part undergoes rigorous AI-assisted quality inspection before being carefully packaged and shipped to your specified location."
+      }
+    },
+    "cta": {
+      "title": "Ready to Experience AI-Powered Manufacturing?",
+      "description": "Start your project today and see how our AI technology can transform your manufacturing process.",
+      "primaryButton": "Upload Your Design",
+      "secondaryButton": "Contact Sales"
+    }
+  },
+
+  "admin": {
+    "title": "Admin Dashboard - AI CNC",
+    "description": "Administrative dashboard for AI CNC platform management",
+    "login": {
+      "title": "Administrator Login",
+      "subtitle": "Sign in to access the admin dashboard",
+      "email": "Email Address",
+      "password": "Password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign In"
+    },
+    "nav": {
+      "dashboard": "Dashboard",
+      "orders": "Orders",
+      "customers": "Customers",
+      "products": "Products",
+      "reports": "Reports",
+      "settings": "Settings",
+      "logout": "Log Out"
+    },
+    "search": "Search",
+    "searchPlaceholder": "Search...",
+    "notifications": "View notifications",
+    "userMenu": "User menu",
+    "stats": {
+      "users": "Total Users",
+      "orders": "New Orders",
+      "revenue": "Monthly Revenue",
+      "projects": "Active Projects"
+    },
+    "dashboard": {
+      "title": "Dashboard Overview",
+      "fromLastMonth": "from last month",
+      "recentOrders": "Recent Orders",
+      "orderId": "Order ID",
+      "customer": "Customer",
+      "date": "Date",
+      "status": "Status",
+      "amount": "Amount"
+    },
+    "comingSoon": "Coming Soon",
+    "featureUnderDevelopment": "This feature is currently under development. Please check back later."
+  },
+
+  "blog": {
+    "title": "Blog - AI CNC",
+    "description": "Latest news, insights, and updates about AI-powered CNC manufacturing",
+    "heading": "AI CNC Blog",
+    "subheading": "Latest news, insights, and trends in AI manufacturing technology",
+    "categories": {
+      "all": "All",
+      "technology": "Technology",
+      "innovation": "Innovation",
+      "manufacturing": "Manufacturing",
+      "casestudy": "Case Study",
+      "tutorial": "Tutorial"
+    },
+    "imagePlaceholder": "Featured Image",
+    "minuteRead": "min read",
+    "readMore": "Read More",
+    "recentPostsHeading": "Recent Articles",
+    "loadMore": "Load More Articles",
+    "featuredPost": {
+      "title": "How AI is Revolutionizing CNC Manufacturing",
+      "excerpt": "Discover how artificial intelligence is transforming traditional CNC manufacturing processes, improving precision, reducing waste, and increasing overall efficiency.",
+      "authorTitle": "Chief Technology Officer"
+    },
+    "recentPosts": {
+      "post1": {
+        "title": "5 Ways Smart CNC Machines Are Changing Production Lines",
+        "excerpt": "Explore the key innovations in smart CNC technology that are reshaping modern production lines and creating new opportunities for manufacturers."
+      },
+      "post2": {
+        "title": "The Future of Materials: What's Next for CNC Machining",
+        "excerpt": "An in-depth look at emerging materials and how they're being integrated with advanced CNC techniques to create stronger, lighter, and more efficient components."
+      },
+      "post3": {
+        "title": "Case Study: How Company X Reduced Costs by 30% with AI CNC",
+        "excerpt": "Learn how a leading automotive parts manufacturer implemented our AI CNC solutions and achieved significant cost savings while improving product quality."
+      }
+    },
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "description": "Stay updated with the latest news and insights in AI manufacturing technology",
+      "placeholder": "Enter your email address",
+      "button": "Subscribe",
+      "privacy": "We respect your privacy. Unsubscribe at any time."
+    }
+  },
+  
   "footer": {
     "tagline": "Revolutionizing manufacturing with artificial intelligence",
     "rights": "All rights reserved.",

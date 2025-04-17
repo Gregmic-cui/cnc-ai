@@ -32,6 +32,207 @@
     }
   },
   
+  "upload": {
+    "title": "文件上传 - AI数控",
+    "description": "上传您的CAD文件进行AI分析和数控制造",
+    "heading": "上传您的文件",
+    "instructions": "上传您的CAD文件、3D模型或蓝图进行AI分析和处理。我们的系统将自动分析您的设计并提供优化建议。",
+    "dragAndDrop": "将文件拖放到此处",
+    "fileFormats": "支持的格式：.STEP、.STL、.DXF、.DWG、.IGES",
+    "selectFiles": "浏览文件",
+    "processFiles": "分析和处理文件",
+    "previousUploads": "以前的上传",
+    "noUploads": "您还没有任何以前的上传"
+  },
+
+  "quote": {
+    "title": "获取报价 - AI数控",
+    "description": "为您的数控制造项目请求个性化报价",
+    "heading": "请求报价",
+    "instructions": "填写下面的表格，提供您的项目详情，以获取我们团队的个性化报价。",
+    "projectInfo": "项目信息",
+    "projectName": "项目名称",
+    "deadline": "要求的截止日期",
+    "materialSpecs": "材料规格",
+    "materialType": "材料类型",
+    "selectMaterial": "选择材料",
+    "materials": {
+      "aluminum": "铝",
+      "steel": "钢",
+      "plastic": "塑料",
+      "wood": "木材",
+      "other": "其他"
+    },
+    "dimensions": "尺寸和规格",
+    "dimensionsPlaceholder": "请提供详细的尺寸和您项目的任何特定要求",
+    "quantityAndContact": "数量和联系信息",
+    "quantity": "所需数量",
+    "email": "电子邮件地址",
+    "additionalInfo": "附加信息",
+    "additionalInfoPlaceholder": "任何其他可能帮助我们更好理解您项目的细节",
+    "submitRequest": "提交报价请求"
+  },
+
+  "contact": {
+    "title": "联系我们 - AI数控",
+    "description": "联系我们的团队进行咨询、支持或合作机会",
+    "heading": "联系我们",
+    "formTitle": "发送消息",
+    "name": "全名",
+    "email": "电子邮件地址",
+    "subject": "主题",
+    "selectSubject": "选择主题",
+    "subjects": {
+      "sales": "销售咨询",
+      "support": "技术支持",
+      "partnership": "合作机会",
+      "other": "其他"
+    },
+    "message": "您的消息",
+    "sendMessage": "发送消息",
+    "infoTitle": "联系信息",
+    "phone": "电话",
+    "email": "电子邮件",
+    "address": "地址",
+    "hoursTitle": "营业时间",
+    "days": {
+      "monday": "星期一",
+      "tuesday": "星期二",
+      "wednesday": "星期三",
+      "thursday": "星期四",
+      "friday": "星期五",
+      "saturday": "星期六",
+      "sunday": "星期日"
+    },
+    "closed": "休息"
+  },
+
+  "workflow": {
+    "title": "我们的工作流程 - AI数控",
+    "description": "了解我们从设计到交付的AI驱动数控制造过程",
+    "heading": "我们的制造流程",
+    "subheading": "从设计到交付的逐步旅程，由AI技术增强",
+    "steps": {
+      "one": {
+        "title": "设计上传和AI分析",
+        "description": "上传您的CAD文件或3D模型供我们的AI分析。我们的系统将识别制造效率和成本降低的优化机会。"
+      },
+      "two": {
+        "title": "材料选择和报价",
+        "description": "从我们的高品质材料范围中选择。我们的AI系统将根据您的设计和材料选择计算精确的成本和交付时间。"
+      },
+      "three": {
+        "title": "AI优化的刀具路径",
+        "description": "我们专有的AI算法为数控加工生成最佳刀具路径，最小化浪费，同时最大化精度和效率。"
+      },
+      "four": {
+        "title": "精密制造",
+        "description": "您的零件在我们最先进的数控机床上生产，通过实时AI监控确保卓越的精度和质量。"
+      },
+      "five": {
+        "title": "质量控制和交付",
+        "description": "每个零件在仔细包装并运送到您指定的位置之前都要进行严格的AI辅助质量检查。"
+      }
+    },
+    "cta": {
+      "title": "准备体验AI驱动的制造？",
+      "description": "今天就开始您的项目，看看我们的AI技术如何改变您的制造流程。",
+      "primaryButton": "上传您的设计",
+      "secondaryButton": "联系销售"
+    }
+  },
+
+  "admin": {
+    "title": "管理控制台 - AI数控",
+    "description": "AI数控平台管理的管理控制台",
+    "login": {
+      "title": "管理员登录",
+      "subtitle": "登录以访问管理控制台",
+      "email": "电子邮件地址",
+      "password": "密码",
+      "rememberMe": "记住我",
+      "forgotPassword": "忘记密码？",
+      "signIn": "登录"
+    },
+    "nav": {
+      "dashboard": "仪表板",
+      "orders": "订单",
+      "customers": "客户",
+      "products": "产品",
+      "reports": "报告",
+      "settings": "设置",
+      "logout": "退出登录"
+    },
+    "search": "搜索",
+    "searchPlaceholder": "搜索...",
+    "notifications": "查看通知",
+    "userMenu": "用户菜单",
+    "stats": {
+      "users": "总用户数",
+      "orders": "新订单",
+      "revenue": "月收入",
+      "projects": "活跃项目"
+    },
+    "dashboard": {
+      "title": "仪表板概览",
+      "fromLastMonth": "相比上月",
+      "recentOrders": "最近订单",
+      "orderId": "订单ID",
+      "customer": "客户",
+      "date": "日期",
+      "status": "状态",
+      "amount": "金额"
+    },
+    "comingSoon": "即将推出",
+    "featureUnderDevelopment": "此功能目前正在开发中。请稍后再查看。"
+  },
+
+  "blog": {
+    "title": "博客 - AI数控",
+    "description": "关于AI驱动的数控制造的最新新闻、见解和更新",
+    "heading": "AI数控博客",
+    "subheading": "AI制造技术的最新新闻、见解和趋势",
+    "categories": {
+      "all": "全部",
+      "technology": "技术",
+      "innovation": "创新",
+      "manufacturing": "制造",
+      "casestudy": "案例研究",
+      "tutorial": "教程"
+    },
+    "imagePlaceholder": "特色图片",
+    "minuteRead": "分钟阅读",
+    "readMore": "阅读更多",
+    "recentPostsHeading": "最近文章",
+    "loadMore": "加载更多文章",
+    "featuredPost": {
+      "title": "AI如何革新数控制造",
+      "excerpt": "了解人工智能如何改变传统数控制造流程，提高精度，减少浪费，并提高整体效率。",
+      "authorTitle": "首席技术官"
+    },
+    "recentPosts": {
+      "post1": {
+        "title": "智能数控机床正在改变生产线的5种方式",
+        "excerpt": "探索智能数控技术中的关键创新，它们正在重塑现代生产线并为制造商创造新机会。"
+      },
+      "post2": {
+        "title": "材料的未来：数控加工的下一步是什么",
+        "excerpt": "深入了解新兴材料以及它们如何与先进的数控技术结合，创造更强、更轻、更高效的组件。"
+      },
+      "post3": {
+        "title": "案例研究：X公司如何通过AI数控减少30%的成本",
+        "excerpt": "了解一家领先的汽车零部件制造商如何实施我们的AI数控解决方案，并在提高产品质量的同时实现显著的成本节约。"
+      }
+    },
+    "newsletter": {
+      "title": "订阅我们的通讯",
+      "description": "获取AI制造技术的最新新闻和见解",
+      "placeholder": "输入您的电子邮件地址",
+      "button": "订阅",
+      "privacy": "我们尊重您的隐私。随时可以取消订阅。"
+    }
+  },
+  
   "footer": {
     "tagline": "用人工智能革新制造业",
     "rights": "保留所有权利。",
